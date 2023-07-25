@@ -9,6 +9,7 @@ pip3 install <lib>
 
 ## libs needed:
 import os
+import json
 import curses
 
 ## For Windows users:
